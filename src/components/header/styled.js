@@ -6,5 +6,6 @@ export const Wrapper = styled.section`
     font-weight: 900;
     margin: auto;
     text-align: center;
-    color: red;
+    color: #f8ff86;
+    margin-top: 30px;
 `

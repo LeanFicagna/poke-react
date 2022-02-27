@@ -15,7 +15,7 @@ function App() {
     <Layout>
       {pokemons.pokemons.map((event) => 
         <PokemonsItem 
-        image={event.sprites.other.home.front_default}
+          image={event.sprites.other.home.front_default}
           name={event.name}
           id={event.id}
           types={event.types.map((event2 => event2.type.name)).join('|')}

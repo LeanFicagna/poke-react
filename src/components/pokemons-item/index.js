@@ -9,12 +9,12 @@ export default function PokemonsItem({
 }) {
     
     return (
-        <S.Wrapper>
+        <S.Wrapper className={types.split("|")[0]}>
             <img
                 src={image}
-                alt="Pokemon"
+                alt={`img ${name}`}
             />
-            <h1 className="fds1">{id}. {name}</h1>
+            <h1>{id}. {name}</h1>
             <h3>{types}</h3>
         </S.Wrapper>
     )

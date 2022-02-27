@@ -31,7 +31,9 @@ line-height: 1.15; /* 1 */
 body {
 margin: 0;
 font-family: roboto, sans-serif;
-background-color: #d5e8d1;
+/**/
+background-color: #1fc8db;
+background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #b8f5d8 75%);
 }
 /**
  * Render the main element consistently in IE.
