@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ??
+
+Projeto feito em React. Consumo de APIs com AXIOS.
+
 ## Screenshot
 
 ![Image1](https://raw.githubusercontent.com/LeanFicagna/poke-react/main/screenshot/screenshot1.png)
