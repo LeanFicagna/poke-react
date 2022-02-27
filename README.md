@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![Image1](poke-react/screenshot/screenshot1.png)
+![Image1](https://raw.githubusercontent.com/LeanFicagna/poke-react/main/screenshot/screenshot1.png)
 
 ## Available Scripts
 
