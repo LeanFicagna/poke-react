@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.4742c603.js",
-    "index.html": "/my-app/index.html",
-    "main.4742c603.js.map": "/my-app/static/js/main.4742c603.js.map"
+    "main.js": "/poke-react/static/js/main.a49cb9cb.js",
+    "index.html": "/poke-react/index.html",
+    "main.a49cb9cb.js.map": "/poke-react/static/js/main.a49cb9cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.4742c603.js"
+    "static/js/main.a49cb9cb.js"
   ]
 }
