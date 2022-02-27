@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## ??
 
 Projeto feito em React. Consumo de APIs com AXIOS.
-API consumida: https://pokeapi.co/
+API do site: https://pokeapi.co/
 
 ## Screenshot
 
