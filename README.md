@@ -2,6 +2,8 @@
 
 Criar aplicação React que consumisse a PokéAPI - API que retorna os Pokemons existentes - utilizando Axios.
 
+Link do projeto: https://leanficagna.github.io/poke-react/
+
 Site da API: https://pokeapi.co/
 
 ## 📚APRENDIZADOS
